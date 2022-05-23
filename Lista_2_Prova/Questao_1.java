@@ -1,6 +1,6 @@
-import java.util.Scanner;
 import java.util.Random;
-public class Questao1 {
+import java.util.Scanner;
+public class Questao_1 {
 
     static Scanner sc = new Scanner(System.in);
 
