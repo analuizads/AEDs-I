@@ -41,7 +41,7 @@ public class Questao_4 {
 
     public static int[] transformarMatriz(int m[][]){
 
-        int v[] = new int[15];
+        int v[] = new int[m.length * m[0].length];
         int i = 0;
         int j = 0;
         int cont = 0;
